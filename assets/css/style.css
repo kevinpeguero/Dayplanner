@@ -58,7 +58,7 @@ body {
   }
 
   .time{
-    background-color: plum;
+    background-color: lightblue;
     border: 2px solid white;
   }
 
@@ -70,7 +70,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06AED5;
+    background-color: rgb(213, 6, 6);
     color: white;
     margin-left: -15px;
     height: 80px;
